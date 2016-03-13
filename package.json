@@ -1,0 +1,32 @@
+{
+  "name": "AppName",
+  "version": "1.0.0",
+  "description": "Zepto & weui mobile template",
+  "main": "index.js",
+  "files": [
+    "./index.js",
+    "./index.less",
+    "./p/**/index.js",
+    "./p/**/index.less"
+  ],
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-band/AppName.git"
+  },
+  "keywords": [
+    "Zepto",
+    "weui",
+    "mobile",
+    "template"
+  ],
+  "author": "d-band",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d-band/AppName/issues"
+  },
+  "homepage": "https://github.com/d-band/AppName#readme",
+  "dependencies": {}
+}
