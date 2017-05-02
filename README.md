@@ -1,6 +1,8 @@
 Zepto & weui mobile template
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/d-band/dool-template-zepto-weui.svg)](https://greenkeeper.io/)
+
 ```
 # Install dev tool
 npm i dool -g
