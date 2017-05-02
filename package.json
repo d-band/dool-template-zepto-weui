@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/d-band/AppName#readme",
   "dependencies": {
-    "weui": "^0.4.0",
+    "weui": "^1.1.2",
     "zepto": "git+https://github.com/madrobby/zepto.git"
   }
 }
