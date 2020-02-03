@@ -3,14 +3,8 @@
   "version": "1.0.0",
   "description": "Zepto & weui mobile template",
   "main": "index.js",
-  "files": [
-    "./index.js",
-    "./index.less",
-    "./p/**/index.js",
-    "./p/**/index.less"
-  ],
   "scripts": {
-    "test": "make test"
+    "start": "dool server"
   },
   "repository": {
     "type": "git",
@@ -29,7 +23,7 @@
   },
   "homepage": "https://github.com/d-band/AppName#readme",
   "dependencies": {
-    "weui": "^1.1.3",
+    "weui": "^2.1.4",
     "zepto": "^1.2.0"
   }
 }
